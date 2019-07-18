@@ -33,6 +33,6 @@ class RoomMapper extends AbstractMapper {
 	 * @return string
 	 */
 	protected function getTableName(): string {
-		return 'admin_resource_booking_db_rooms';
+		return 'arb_db_rooms';
 	}
 }
